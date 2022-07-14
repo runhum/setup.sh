@@ -1,5 +1,6 @@
 # setup.sh
-A setup script that installs apps and tools with a Brewfile and MAS.
+A setup script that installs apps and tools with a Brewfile and MAS. 
+Intended for a fresh macOS install.
 
 
 # Install
