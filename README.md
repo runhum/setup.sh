@@ -1,5 +1,5 @@
 # setup.sh
-A setup script that uses Homebrew with a Brewfile to install apps I use.
+A setup script that installs apps and tools with a Brewfile and MAS.
 
 
 # Install
